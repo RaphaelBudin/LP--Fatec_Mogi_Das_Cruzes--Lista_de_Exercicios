@@ -1,0 +1,8 @@
+Na apostila os comandos estão levemente diferentes.
+
+Alguns comandos das bibliotecas não irão funcionar a menos que se coloque o sinal "_" antes deles
+
+por exemplo:
+	getch() --- NÃO FUNCIONOU
+	_getch() -- FUNCIONOU
+
